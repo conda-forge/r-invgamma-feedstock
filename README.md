@@ -1,11 +1,11 @@
-About r-invgamma
-================
+About r-invgamma-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-invgamma-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/dkahle/invgamma
 
 Package license: GPL-2
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-invgamma-feedstock/blob/main/LICENSE.txt)
 
 Summary: Light weight implementation of the standard distribution functions for the inverse gamma distribution, wrapping those for the gamma distribution in the stats package.
 
